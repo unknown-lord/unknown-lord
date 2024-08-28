@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unknown-lord aka Priyanshu Raj
+- 👋 Hi, I’m Priyanshu Raj
 - 👀 I’m interested in unknown tect-stuff and discovering something new
 - 🌱 I’m currently learning full stack development with unknown projects
 - 💞️ I’m looking to collaborate on ...
